@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package mx.com.uami.practica1_microservicios;
+package mx.com.uami.microservicios;
 
 /**
  *
